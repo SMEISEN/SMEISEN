@@ -5,7 +5,7 @@ I’m currently working on methods to automate time series forecasting in [smart
 ### Latest Work 🚀
 
 #### 2022
-- [Review of automated time series forecasting pipelines](https://arxiv.org/abs/2202.01712)
+- [Review of automated time series forecasting pipelines (pre-print)](https://arxiv.org/abs/2202.01712)
 
 #### 2021
 - [A Lightweight User Interface for Smart Charging of Electric Vehicles: A Real-World Application](https://ieeexplore.ieee.org/document/9621604)

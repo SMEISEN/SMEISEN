@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on methods to automate time series forecasting in [smart grid](https://en.wikipedia.org/wiki/Smart_grid) applications! ⚙️📈⚡
+I’m currently working on methods to automate time series forecasting in [smart grid applications](https://www.elab2.kit.edu/english/index.php)! ⚙️📈⚡
 
 ### Latest Work 🚀
 

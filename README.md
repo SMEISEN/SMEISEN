@@ -4,8 +4,13 @@ I’m currently working on methods to automate time series forecasting in [smart
 
 ### Latest Work 🚀
 
+#### 2023
+- [AutoPV: Automated photovoltaic forecasts with limited information using an ensemble of pre-trained models](https://dl.acm.org/doi/abs/10.1145/3575813.3597348)
+- [Loss-Customised Probabilistic Energy Time Series Forecasts Using Automated Hyperparameter Optimisation](https://dl.acm.org/doi/10.1145/3575813.3595204)
+
 #### 2022
 - [Review of automated time series forecasting pipelines](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1475)
+- [Multi-zone grey-box thermal building identification with real occupants](https://dl.acm.org/doi/10.1145/3563357.3567403)
 
 #### 2021
 - [A Lightweight User Interface for Smart Charging of Electric Vehicles: A Real-World Application](https://ieeexplore.ieee.org/document/9621604)

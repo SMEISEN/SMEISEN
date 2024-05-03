@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋
 
 I’m currently working on methods to automate time series forecasting in [smart grid applications](https://www.elab2.kit.edu/english/index.php)! ⚙️📈⚡
 
@@ -20,8 +20,8 @@ I’m currently working on methods to automate time series forecasting in [smart
 ### Projects 😎
 
 #### RidingCoach Web Application 🏍️🚲
-Web application for motorcycle and mountain bike racers to organize maintenance, spare parts, and tires, furthermore to log and analyze training sessions and chassis set-ups.
-**[Check out my demo](https://riding-coach-demo.herokuapp.com/)!** (_allocating server resources may take some time during the first start of the app_)
+Web application for bike and motorcycle riders to organize maintenance, spare parts, and tires, furthermore to log and analyze training sessions and chassis set-ups.
+**[Link to demo](https://riding-coach-demo.herokuapp.com/)!** (_allocating server resources may take some time during the first start of the app_)
 
 #### Smart Charging Wizard Web Application 🚗🔌⚡️ 
 Smart charging, i.e. the controlled and coordinated charging of Electric Vehicles (EVs) seems promising for efficient electric mobility. According concepts, however, require sufficient user acceptance. For this purpose, the **[Smart Charging Wizard](https://energylabsmartcharging.github.io/Smart-Charging-Wizard/)** provides a lightweight User Interface (UI) that makes smart charging more transparent. In particular, the utilization of energy and time flexibilities in EV charging events to reduce both EV operating cost and battery aging is illustrated.
